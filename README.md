@@ -7,10 +7,12 @@ Created with **Kivy** - UIX for layout Design.
 Currently working on it.
 ### Features
 >Suportable on
->>Android
->>iOS
->>Windows
->>OS X
->>RPi
+
+Plateform | 
+------------ |
+Android | 
+Windows |
+iOS |
+OS X |
 
 -Krishan Jangid
