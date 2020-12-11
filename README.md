@@ -5,9 +5,9 @@ Allow to Calculate Simple Arithmatic Calculation's
 
 Created with **Kivy** - UIX for layout Design.
 
-###Project Status:
+### Project Status:
 
-- [x] Fully Developed in Python
-- [ ] this is an incomplete item
+[x] Fully Developed in Python
+
 
 -Krishan Jangid
