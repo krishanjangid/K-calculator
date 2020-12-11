@@ -5,8 +5,8 @@ Allow to Calculate Simple Arithmatic Calculation's
 
 Created with **Kivy** - UIX for layout Design.
 Currently working on it.
-### Features
->Suportable on
+
+## Suportable Pateform:
 
 Plateform | 
 ------------ |
